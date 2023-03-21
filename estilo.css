@@ -37,7 +37,7 @@ html {
 
 #inicio .contenido header .contenido-header h1{
     text-align: center;
-    color: #ff5080;
+    color: #239089;
 }
 
 #inicio .contenido header .contenido-header nav ul{
@@ -55,7 +55,7 @@ html {
 }
 
 #inicio .contenido header .contenido-header nav ul a:hover{
-    color: #ff5080;
+    color: #239089;
 }
 
 /*ES PARA EL NAV PARA QUE AL NO SELECCIONARLO QUEDE EN BLANCO LOGO*/
@@ -69,10 +69,10 @@ html {
 }
 
 #inicio .contenido header .contenido-header .redes a:hover {
-    color: #ff5080;
+    color: #239089;
 }
 #inicio .contenido header .contenido-header .seleccionado{
-    color:#ff5080
+    color:#239089
 }
 
 #inicio .contenido .presentacion{
@@ -101,7 +101,7 @@ html {
 
 #inicio .contenido .presentacion h2 span {
     font-size: 25px;
-    color: #ff5080;
+    color: #239089;
 }
 
 #inicio .contenido .presentacion .descripcion{
@@ -126,7 +126,7 @@ html {
 }
 
 #inicio .contenido .presentacion a:hover {
-    background-color: #ff5080;
+    background-color: #239089;
 }
 
 /*ES PARA EL NAV PARA QUE AL NO SELECCIONARLO QUEDE EN BLANCO*/
@@ -178,7 +178,7 @@ html {
 }
 
 #sobremi .sobremi h2 span {
-    color: #ff5080
+    color: #239089
 }
 
 #sobremi .sobremi h3{
@@ -208,7 +208,7 @@ html {
 }
 
 #sobremi .sobremi a:hover {
-    background-color: #ff5080;
+    background-color: #239089;
     color: #fff;
 }
 
@@ -284,7 +284,7 @@ html {
 
 /*SECCION HABILIDADES*/
 .contenedor-skills{
-    background: linear-gradient(#eb5a5acc, rgba(33,16,16,.8)), url("imagenes/imagen_fondo_skills.jpg");
+    background: linear-gradient(#239089, rgba(33,16,16,.8)), url("imagenes/imagen_fondo_skills.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -353,13 +353,14 @@ html {
     position: absolute;
     left: 0;
     background-color: rgba(0, 0, 0, .8);
-    color: #ff5080;
+    color: #239089;
     width: 100%;
     padding: 10px;
     opacity: 0;
     bottom: -40px;
     transition: .5s;
 }
+
 
 #portfolio .fila .proyecto:hover .info{
     opacity: 1;
@@ -424,7 +425,7 @@ html {
 }
 
 #contacto .btn-enviar:hover {
-    background-color: #ff5080;
+    background-color: #239089;
     color: #fff;
 }
 
@@ -444,7 +445,7 @@ footer a {
     font-size: 25px;
 }
 footer .redes a:hover{
-    color: #ff5080;
+    color: #239089;
 }
 
 /*SECCION RESPONSIVE*/
@@ -531,3 +532,4 @@ footer .redes a:hover{
     }
 
 }
+
